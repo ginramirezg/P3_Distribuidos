@@ -14,9 +14,9 @@ Para ejecutar esta aplicación hemos abierto una terminal para comando
 5. java ServidorBiblioteca -ORBInitialHost localhost -ORBInitialPort 1050
 6. java ClienteBiblioteca -ORBInitialHost localhost -ORBInitialPort 1050
 
-## Lo que he añadido a la práctica
+## Lo que hemos añadido a la práctica
 - biblioteca.idl: 
-  He añadido más atributos y más funciones para comprender mejor como va CORBA
+  Hemos añadido más atributos y más funciones para comprender mejor como va CORBA
 - ServidorBiblioteca.java: 
   Aqui hemos puesto la funcionalidad de las funciones además de añadir más libros al servidor
 - ClienteBiblioteca.java: 
