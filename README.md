@@ -2,8 +2,8 @@
 # Practica Corba
 Este proyecto va a tratar de una implementación de una biblioteca utilizando CORBA
 ## Las versiones que hemos usado:
-- Oracle OpenJDK version 1.8.0_202
-- Languaje level: 19
+- Oracle JDK 24
+- jacorb 3.9
 - Además hemos tenido que añadir variables de entorno para este programa
 ## Ejecución
 Para ejecutar esta aplicación hemos abierto una terminal para comando
